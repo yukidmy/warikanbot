@@ -8,9 +8,10 @@
 
 2. Create a Heroku app and set up Heroku Postgres
 
-2. Put the api token and other environment/user variables in `.env` if you want to run this bot locally
+3. Put the api token and other environment/user variables in `.env` if you want to run this bot locally
 
-3. Deploy this bot to your Heroku app
+4. Deploy this bot to your Heroku app
+   - note that you'll need to set environment variables in the heroku dashboard if you don't include `.env` file in the resources deployed to heroku.
 
 ## Reference
 
