@@ -11,7 +11,7 @@
 3. Put the api token and other environment/user variables in `.env` if you want to run this bot locally
 
 4. Deploy this bot to your Heroku app
-   - note that you'll need to set environment variables in the heroku dashboard if you don't include `.env` file in the resources deployed to heroku.
+   - Note that you'll need to set environment variables in the heroku dashboard if you don't include `.env` file in the resources deployed to heroku.
 
 ## Reference
 
